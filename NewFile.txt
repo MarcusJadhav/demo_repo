@@ -1,3 +1,6 @@
 Logical areas of git :-
 
 There are three logical areas of git.
+1.Working area
+2.Stagging area
+3.Commited area
