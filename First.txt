@@ -1,1 +1,5 @@
-This is a demo test file
+This is a demo test file.
+Changes done.
+Checking for commited area.
+
+******Added new Line.************
